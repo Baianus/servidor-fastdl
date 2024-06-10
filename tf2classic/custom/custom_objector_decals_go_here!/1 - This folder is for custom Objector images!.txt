@@ -1,0 +1,8 @@
+Hiya! I made it a bit easier to modify the Objector to suit your own personal tastes.
+
+Using this folder, you can modify the textures for each team, if you like!
+There's one for each team, just like normal.
+
+
+HOWEVER, the nature of it means that it'll show up on -everybody's- Objector, which I can't do much about...
+Sorry! Hope it's still fun!

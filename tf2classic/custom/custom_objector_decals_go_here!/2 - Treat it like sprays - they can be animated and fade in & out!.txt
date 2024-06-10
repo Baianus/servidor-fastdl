@@ -1,0 +1,12 @@
+The decals are just four 256x256 .vtfs (which I welcome you to change!)
+and 4 .vmts (which you can change too! Sparingly!)
+
+
+Essentially, treat these like 4 sprays - one for each team.
+Just like Sprays, they can be fading / distraction decals, or animated ones!
+Even a step further, since you can modify the framerate of an animated decal via the .vmt!
+
+Hopefully, this should make things easier to access!
+
+If you want an easy site to convert images to .vtf, try this one! "VTF Spray Converter for TF2";
+https://rafradek.github.io/Mishcatt/
